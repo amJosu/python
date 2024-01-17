@@ -87,7 +87,7 @@ def text_to_speech(text_var):
 
 #calling function speech to text
 #speech_to_text()
-#text_to_speech("Hello! Welcome Jose Ukken")
+#text_to_speech("Hello! Welcome Master")
 #using __name__ == '__main__' so the above and below functions called seperately    
 
 if __name__ == '__main__':
